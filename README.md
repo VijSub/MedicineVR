@@ -64,8 +64,8 @@ If you want to get back to the starting room, you currently have to use the hand
 - Note that our application currently does not support wellness-settings like a "vignette mode".
 - Note also that, while our application supports hand-tracking, locomotion is not possible with it currently.
 
-## Video Demonstration
+## Picture & Video demonstration
 
-[![Watch the video](./RepoAssets/MedicineVR_thumbnail.jpg)](https://youtu.be/qG0mJ0viLNI)
+[![Watch the video](./Screenshots/MedicineVR_thumbnail.png)](https://youtu.be/qG0mJ0viLNI)
 
 Click the picture to watch a demo of MedicineVR.
