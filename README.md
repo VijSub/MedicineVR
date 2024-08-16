@@ -66,6 +66,6 @@ If you want to get back to the starting room, you currently have to use the hand
 
 ## Video Demonstration
 
-[![Watch the video](./RepoAssets/MedicineVR_thumbnail.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[![Watch the video](./RepoAssets/MedicineVR_thumbnail.jpg)](https://youtu.be/qG0mJ0viLNI)
 
 Click the picture to watch a demo of MedicineVR.
