@@ -1,0 +1,26 @@
+Agent steht im Raum mit Begrüßung:
+"Hello and Welcome to MedicineVR!" -> Standardtext des Tooltips
+
+Später würde durch einen Button ermöglicht werden, die Einführung zu starten.
+Momentan reicht es, wenn der Agent ca. 10 Sekunden wartet und dann Anfängt.
+
+"Firstly, let me introduce myself: I am Doctor ..., your guide through this fascinating journey of the human body!" -> 10 Sekunden Speech task
+
+Geht zum Herz -> eventuell Geste/AdaptiveGaze/Zeigen
+"Let's start with the heart. This incredible organ is like the engine of your body, pumping blood and keeping you alive." -> 10 Sekunden Speech Task
+"It works tirelessly to distribute blood throughout your entire system." 6 Sekunden Speech Task
+
+Geht zum Gehirn -> eventuell Geste/AdaptiveGaze/Zeigen
+"Next, we have the brain. Think of it as the control center, managing everything from your thoughts to your movements."  -> 10 Sekunden Speech Task
+"It is part of our nerve system and very important for regulating our body, while also giving us consciousness. How Awesome!" -> 10 Sekunden Speech Task
+
+Geht zur Leber -> eventuell Geste/AdaptiveGaze/Zeigen
+"Here we have the liver, a powerhouse of metabolism." -> 5 Sekunden Speech Task
+"It processes nutrients and produces essential proteins. It also breaks down and excretes substances. Truly indispensable!" -> 10 Sekunden Speech Task
+
+Geht zur Lunge -> eventuell Geste/AdaptiveGaze/Zeigen
+"And finally, the lungs." -> 3 Sekunden Speech Task
+"They draw in oxygen and expel carbon dioxide, keeping your blood oxygenated and your body functioning." -> 9 Sekunden Speech Task
+
+Stellt sich in die Mitte der Zylinder:
+"You can SELECT any organ by clicking it to learn more about it." -> 1 Sekunde Speech Task (Text bleibt sowieso erhalten)

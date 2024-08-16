@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MedicineVRAssets/Scenes/SelectionRoom.unity
+    guid: a50382e6893d09843acd94d362f5416d
+  - enabled: 1
+    path: Assets/MedicineVRAssets/Scenes/LiverScene.unity
+    guid: 1575768758aeca64481511d454bf3bc5
+  - enabled: 1
+    path: Assets/MedicineVRAssets/Scenes/HeartScene.unity
+    guid: aee1852a53657814b8994cffbe751481
+  - enabled: 1
+    path: Assets/MedicineVRAssets/Scenes/LungsScene.unity
+    guid: bc297395ceb4d784d87d3526ebc09edc
+  - enabled: 1
+    path: Assets/MedicineVRAssets/Scenes/BrainScene.unity
+    guid: f5522757ae051144a80fba4bcdee3480
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb18d7928bef83d4ba78301b387a66f8, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 779a5e0c60946e341bc8dba6d9324941, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 392a785bd1fb6c0429dc4edf4d950c62, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ea4a4300ecb183a409f11ec33fa883a1, type: 2}

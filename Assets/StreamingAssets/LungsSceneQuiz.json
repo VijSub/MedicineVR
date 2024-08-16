@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Where are the lungs located?",
+        "answers": [
+            "In the chest",
+            "In the abdomen",
+            "In the skull"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many lobes does the right lung have?",
+        "answers": [
+            "3",
+            "2",
+            "4"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are the tiny air sacs in the lungs called?",
+        "answers": [
+            "Alveoli",
+            "Bronchi",
+            "Capillaries"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What connects the lungs to the trachea?",
+        "answers": [
+            "Bronchi",
+            "Diaphragm",
+            "Alveoli"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which muscle plays a key role in breathing?",
+        "answers": [
+            "Diaphragm",
+            "Heart",
+            "Stomach"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which is not a function of the lungs?",
+        "answers": [
+            "Digesting food",
+            "Gas exchange",
+            "Voice production"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What do the lungs expel from the blood?",
+        "answers": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nutrients"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To which system do the lungs belong?",
+        "answers": [
+            "Respiratory system",
+            "Circulatory system",
+            "Digestive system"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What do the lungs help maintain by regulating carbon dioxide levels?",
+        "answers": [
+            "pH balance",
+            "Blood pressure",
+            "Oxygen levels"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which organ works closely with the lungs?",
+        "answers": [
+            "Heart",
+            "Liver",
+            "Kidneys"
+        ],
+        "correctAnswer": 0
+    }
+]

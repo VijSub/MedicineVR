@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Where is the heart located?",
+        "answers": [
+            "Center of the chest, slightly to the left",
+            "Right side of the chest",
+            "Middle of the abdomen"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many chambers does the heart have?",
+        "answers": [
+            "4",
+            "2",
+            "3"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are the chambers of the heart called?",
+        "answers": [
+            "Atria and ventricles",
+            "Lobes and lobules",
+            "Arteries and veins"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which layer of the heart wall is composed of cardiac muscle?",
+        "answers": [
+            "Myocardium",
+            "Epicardium",
+            "Endocardium"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What do the coronary arteries supply?",
+        "answers": [
+            "Oxygen-rich blood to the heart",
+            "Nutrients to the liver",
+            "Hormones to the brain"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which part of the heart's electrical system initiates the heartbeat?",
+        "answers": [
+            "Sinoatrial (SA) node",
+            "Atrioventricular (AV) node",
+            "His-Purkinje network"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which is not a function of the heart?",
+        "answers": [
+            "Digesting food",
+            "Pumping blood",
+            "Maintaining blood pressure"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To which system does the heart belong?",
+        "answers": [
+            "Circulatory system",
+            "Digestive system",
+            "Respiratory system"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the heart pump to the lungs?",
+        "answers": [
+            "Deoxygenated blood",
+            "Oxygen-rich blood",
+            "Nutrients"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which organ works closely with the heart?",
+        "answers": [
+            "Lungs",
+            "Liver",
+            "Stomach"
+        ],
+        "correctAnswer": 0
+    }
+]

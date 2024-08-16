@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Where is the brain located?",
+        "answers": [
+            "In the skull",
+            "In the chest",
+            "In the abdomen"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many main parts does the brain have?",
+        "answers": [
+            "3",
+            "2",
+            "4"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which part of the brain controls balance and coordination?",
+        "answers": [
+            "Cerebellum",
+            "Cerebrum",
+            "Brainstem"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are the functional units of the brain?",
+        "answers": [
+            "Neurons",
+            "Hepatocytes",
+            "Erythrocytes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which fluid protects and nourishes the brain?",
+        "answers": [
+            "Cerebrospinal fluid",
+            "Blood plasma",
+            "Synovial fluid"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which is not a function of the brain?",
+        "answers": [
+            "Pumping blood",
+            "Processing thoughts",
+            "Regulating breathing"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which part of the brain controls voluntary movements?",
+        "answers": [
+            "Motor cortex",
+            "Cerebellum",
+            "Brainstem"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To which system does the brain belong?",
+        "answers": [
+            "Nervous system",
+            "Circulatory system",
+            "Digestive system"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the brain regulate to maintain homeostasis?",
+        "answers": [
+            "Internal balance",
+            "Blood pressure",
+            "Oxygen levels"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which organ works closely with the brain?",
+        "answers": [
+            "Spinal cord",
+            "Heart",
+            "Liver"
+        ],
+        "correctAnswer": 0
+    }
+]

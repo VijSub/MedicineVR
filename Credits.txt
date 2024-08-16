@@ -1,0 +1,20 @@
+Liver Model:
+"Human liver and gallbladder" (https://skfb.ly/6SD8p) by ElliotSS is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Skybox Textures:
+"Skybox Series Free" (https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633#publisher) by Avionx is licensed under Standard Unity Asset Store EULA (https://unity.com/legal/as-terms)
+
+Lung model: 
+"Realistic Human Lungs" by neshallads is licensed under Creative Commons Attribution (https://sketchfab.com/3d-models/realistic-human-lungs-ce09f4099a68467880f46e61eb9a3531)
+
+Heart model:
+"Realistic Human Heart" (https://sketchfab.com/3d-models/realistic-human-heart-3f8072336ce94d18b3d0d055a1ece089)
+License: CC Attribution (http://creativecommons.org/licenses/by/4.0/)
+by neshallads
+
+Brain Model: 
+"Brain Areas" (https://sketchfab.com/3d-models/brain-areas-d64608a3978b47d8a39c5a15795ca8c4) License: CC Attribution (http://creativecommons.org/licenses/by/4.0/)
+by Versal
+
+
+

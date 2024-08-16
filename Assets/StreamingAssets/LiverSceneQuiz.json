@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Where is the liver located?",
+        "answers": [
+            "Upper right abdomen",
+            "Lower left abdomen",
+            "Middle abdomen"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many main lobes does the liver have?",
+        "answers": [
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are the functional units of the liver?",
+        "answers": [
+            "Hepatocytes",
+            "Neurons",
+            "Erythrocytes"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which vessels supply the liver with blood?",
+        "answers": [
+            "Hepatic artery and portal vein",
+            "Aorta and vena cava",
+            "Splenic artery and renal vein"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which is not a function of the liver?",
+        "answers": [
+            "Blood pressure regulation",
+            "Detoxification",
+            "Bile production"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which vitamins does the liver store?",
+        "answers": [
+            "A, D, E, K, B12",
+            "C, B6",
+            "B1, B2"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does albumin do?",
+        "answers": [
+            "Maintains blood volume",
+            "Regulates blood pressure",
+            "Aids in respiration"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which system does the liver belong to?",
+        "answers": [
+            "Digestive system",
+            "Circulatory system",
+            "Respiratory system"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the primary role of hepatocytes?",
+        "answers": [
+            "Filter blood and store nutrients",
+            "Produce bile",
+            "Store vitamins"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which organ works closely with the liver?",
+        "answers": [
+            "Gallbladder",
+            "Heart",
+            "Lungs"
+        ],
+        "correctAnswer": 0
+    }
+]
