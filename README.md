@@ -63,3 +63,9 @@ If you want to get back to the starting room, you currently have to use the hand
 - If you need to reset the Scene or get back to the SelectionRoom/want to exit the game, use the hand-tracking menu by looking at your palm.
 - Note that our application currently does not support wellness-settings like a "vignette mode".
 - Note also that, while our application supports hand-tracking, locomotion is not possible with it currently.
+
+## Video Demonstration
+
+[![Watch the video](./RepoAssets/MedicineVR_thumbnail.jpg)](https://www.youtube.com/watch?v=your_video_id)
+
+Click the picture to watch a demo of MedicineVR.
